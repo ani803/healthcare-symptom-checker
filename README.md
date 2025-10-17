@@ -1,7 +1,3 @@
-Sure! Here’s a **professional and GitHub-ready README.md** for your `healthcare-symptom-checker` project. You can copy it directly into a `README.md` file in your project root.
-
----
-
 ```markdown
 # Healthcare Symptom Checker
 
